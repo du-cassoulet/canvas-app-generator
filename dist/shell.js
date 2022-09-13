@@ -8,7 +8,7 @@ const Lexer_1 = __importDefault(require("./classes/Lexer"));
 function shell(file) {
     const code = fs_1.default.readFileSync(file, "utf8");
     const lexer = new Lexer_1.default(code);
-    console.log(lexer.parse());
+    console.log(lexer.parse().toString());
     return "";
 }
 exports.default = shell;

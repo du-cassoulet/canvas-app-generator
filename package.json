@@ -11,5 +11,25 @@
   "name": "canvas-app-generator",
   "version": "1.0.0",
   "main": "dist/index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "private": false,
+  "description": "A generator for 2d apps that uses canvas.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/du-cassoulet/canvas-app-generator.git"
+  },
+  "keywords": [
+    "canvas",
+    "website",
+    "lib",
+    "ts"
+  ],
+  "author": "DU CASSOULET",
+  "bugs": {
+    "url": "https://github.com/du-cassoulet/canvas-app-generator/issues"
+  },
+  "homepage": "https://github.com/du-cassoulet/canvas-app-generator#readme"
 }
