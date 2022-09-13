@@ -2,7 +2,7 @@
 node_modules/
 
 # ALL TEST FIILES
-script/
+scripts/**
 
 # YARN MODULES
 yarn.lock
