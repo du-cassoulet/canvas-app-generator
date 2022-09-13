@@ -1,4 +1,0 @@
-import Canvas
-
-const rect = Canvas.Rect(50, 50, 100, 100);
-rect.color = #456456;
