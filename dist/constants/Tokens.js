@@ -1,0 +1,29 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = {
+    EOF: "EOF",
+    STRING: "STRING",
+    INT: "INT",
+    FLOAT: "FLOAT",
+    BOOLEAN: "BOOLEAN",
+    DOT: "DOT",
+    EQUALS: "EQUALS",
+    NOT_EQUALS: "NOT_EQUALS",
+    LESS_THAN: "LESS_THAN",
+    LESS_THAN_OR_EQUAL: "LESS_THAN_OR_EQUAL",
+    GREATER_THAN: "GREATER_THAN",
+    GREATER_THAN_OR_EQUAL: "GREATER_THAN_OR",
+    DEFINE: "DEFINE",
+    LEFT_BRACKET: "LEFT_BRACKET",
+    RIGHT_BRACKET: "RIGHT_BRACKET",
+    LEFT_PARENTHES: "LEFT_PARENTHES",
+    RIGHT_PARENTHES: "RIGHT_PARENTHES",
+    LEFT_SQUARE: "LEFT_SQUARE",
+    RIGHT_SQUARE: "RIGHT_SQUARE",
+    COLOR: "COLOR",
+    MINUS: "MINUS",
+    PLUS: "PLUS",
+    DIVED: "DIVED",
+    MULTED: "MULTED",
+    NEW_LINE: "NEW_LINE"
+};

@@ -1,0 +1,9 @@
+# NODE MODULES
+node_modules/
+
+# ALL TEST FIILES
+script/
+
+# YARN MODULES
+yarn.lock
+yarn-error.log
